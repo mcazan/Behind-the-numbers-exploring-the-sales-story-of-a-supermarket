@@ -1,0 +1,134 @@
+product_id,department_id,department_name,product_name
+1,20,deli,prepared soups salads
+2,16,dairy eggs,specialty cheeses
+3,19,snacks,energy granola bars
+4,9,dry goods pasta,instant foods
+5,13,pantry,marinades meat preparation
+6,2,other,other
+7,12,meat seafood,packaged meat
+8,3,bakery,bakery desserts
+9,9,dry goods pasta,pasta sauce
+10,17,household,kitchen supplies
+11,11,personal care,cold flu allergy
+12,9,dry goods pasta,fresh pasta
+13,20,deli,prepared meals
+14,20,deli,tofu meat alternatives
+15,12,meat seafood,packaged seafood
+16,4,produce,fresh herbs
+17,13,pantry,baking ingredients
+18,10,bulk,bulk dried fruits vegetables
+19,13,pantry,oils vinegars
+20,11,personal care,oral hygiene
+21,16,dairy eggs,packaged cheese
+22,11,personal care,hair care
+23,19,snacks,popcorn jerky
+24,4,produce,fresh fruits
+25,11,personal care,soap
+26,7,beverages,coffee
+27,5,alcohol,beers coolers
+28,5,alcohol,red wines
+29,13,pantry,honeys syrups nectars
+30,6,international,latino foods
+31,7,beverages,refrigerated
+32,4,produce,packaged produce
+33,6,international,kosher foods
+34,1,frozen,frozen meat seafood
+35,12,meat seafood,poultry counter
+36,16,dairy eggs,butter
+37,1,frozen,ice cream ice
+38,1,frozen,frozen meals
+39,12,meat seafood,seafood counter
+40,8,pets,dog food care
+41,8,pets,cat food care
+42,1,frozen,frozen vegan vegetarian
+43,3,bakery,buns rolls
+44,11,personal care,eye ear care
+45,19,snacks,candy chocolate
+46,19,snacks,mint gum
+47,11,personal care,vitamins supplements
+48,14,breakfast,breakfast bars pastries
+49,12,meat seafood,packaged poultry
+50,19,snacks,fruit vegetable snacks
+51,13,pantry,preserved dips spreads
+52,1,frozen,frozen breakfast
+53,16,dairy eggs,cream
+54,17,household,paper goods
+55,11,personal care,shave needs
+56,18,babies,diapers wipes
+57,14,breakfast,granola
+58,1,frozen,frozen breads doughs
+59,15,canned goods,canned meals beans
+60,17,household,trash bags liners
+61,19,snacks,cookies cakes
+62,5,alcohol,white wines
+63,9,dry goods pasta,grains rice dried goods
+64,7,beverages,energy sports drinks
+65,11,personal care,protein meal replacements
+66,6,international,asian foods
+67,20,deli,fresh dips tapenades
+68,10,bulk,bulk grains rice dried goods
+69,15,canned goods,soup broth bouillon
+70,11,personal care,digestion
+71,16,dairy eggs,refrigerated pudding desserts
+72,13,pantry,condiments
+73,11,personal care,facial care
+74,17,household,dish detergents
+75,17,household,laundry
+76,6,international,indian foods
+77,7,beverages,soft drinks
+78,19,snacks,crackers
+79,1,frozen,frozen pizza
+80,11,personal care,deodorants
+81,15,canned goods,canned jarred vegetables
+82,18,babies,baby accessories
+83,4,produce,fresh vegetables
+84,16,dairy eggs,milk
+85,17,household,food storage
+86,16,dairy eggs,eggs
+87,17,household,more household
+88,13,pantry,spreads
+89,13,pantry,salad dressing toppings
+90,7,beverages,cocoa drink mixes
+91,16,dairy eggs,soy lactosefree
+92,18,babies,baby food formula
+93,3,bakery,breakfast bakery
+94,7,beverages,tea
+95,15,canned goods,canned meat seafood
+96,20,deli,lunch meat
+97,13,pantry,baking supplies decor
+98,7,beverages,juice nectars
+99,15,canned goods,canned fruit applesauce
+100,21,missing,missing
+101,17,household,air fresheners candles
+102,18,babies,baby bath body care
+103,19,snacks,ice cream toppings
+104,13,pantry,spices seasonings
+105,13,pantry,doughs gelatins bake mixes
+106,12,meat seafood,hot dogs bacon sausage
+107,19,snacks,chips pretzels
+108,16,dairy eggs,other creams cheeses
+109,11,personal care,skin care
+110,13,pantry,pickled goods olives
+111,17,household,plates bowls cups flatware
+112,3,bakery,bread
+114,17,household,cleaning products
+115,7,beverages,water seltzer sparkling water
+116,1,frozen,frozen produce
+117,19,snacks,nuts seeds dried fruit
+118,11,personal care,first aid
+119,1,frozen,frozen dessert
+120,16,dairy eggs,yogurt
+121,14,breakfast,cereal
+122,12,meat seafood,meat counter
+123,4,produce,packaged vegetables fruits
+124,5,alcohol,spirits
+125,19,snacks,trail mix snack mix
+126,11,personal care,feminine care
+127,11,personal care,body lotions soap
+128,3,bakery,tortillas flat bread
+129,1,frozen,frozen appetizers sides
+130,14,breakfast,hot cereal pancake mixes
+131,9,dry goods pasta,dry pasta
+132,11,personal care,beauty
+133,11,personal care,muscles joints pain relief
+134,5,alcohol,specialty wines champagnes

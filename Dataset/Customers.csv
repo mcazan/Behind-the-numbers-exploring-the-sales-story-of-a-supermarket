@@ -1,4 +1,4 @@
-user_id,gender,age,income,score
+customer_id,gender,age,income,score
 1,Male,19,15,39
 2,Male,21,15,81
 3,Female,20,16,6

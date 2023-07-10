@@ -1,3 +1,4 @@
+transaction_id,customer_id,order_number,order_day_of_week,order_hour_of_day,days_since_previous_order,product_id,add_to_cart_order,reordered
 1,1363,4,2,19,23,38,1,1
 1,1363,4,2,19,23,67,2,1
 1,1363,4,2,19,23,59,3,1
